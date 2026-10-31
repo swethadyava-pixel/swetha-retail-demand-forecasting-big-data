@@ -1,0 +1,20 @@
+Create/confirm a Date table, mark it as the Date table, and relate Date[Date] to the sales date. Adjust names to match imported table.
+
+Total Revenue INR = SUM('Retail Sales'[Revenue INR])
+Units Sold = SUM('Retail Sales'[Units Sold])
+Estimated Unmet Demand = SUM('Retail Sales'[Estimated Unmet Demand])
+Average Units per Record = AVERAGE('Retail Sales'[Units Sold])
+Estimated COGS INR = SUMX('Retail Sales', 'Retail Sales'[Units Sold] * 'Retail Sales'[Unit Cost INR])
+Estimated Gross Profit INR = [Total Revenue INR] - [Estimated COGS INR]
+Estimated Gross Margin % = DIVIDE([Estimated Gross Profit INR], [Total Revenue INR])
+Low Stock Records = CALCULATE(COUNTROWS('Retail Sales'), 'Retail Sales'[Closing Stock] <= 10)
+Promotion Records = CALCULATE(COUNTROWS('Retail Sales'), 'Retail Sales'[Promotion] = "Yes")
+Promotion Share % = DIVIDE([Promotion Records], COUNTROWS('Retail Sales'))
+
+Suggested 4-page report:
+1. Executive overview: Revenue, Units Sold, Estimated Unmet Demand, Estimated Gross Profit, daily trend.
+2. Demand analysis: category, product, city and weekday demand; Date/City/Category slicers.
+3. Inventory risk: Closing Stock vs Units Sold, low-stock table, estimated unmet demand.
+4. Promotion analysis: promotion/non-promotion averages; clearly label as descriptive, not causal.
+
+Note: PNGs in this folder are static previews/evidence aids. They are not a Power BI .pbix file. Build and save the actual .pbix in Power BI Desktop if available.

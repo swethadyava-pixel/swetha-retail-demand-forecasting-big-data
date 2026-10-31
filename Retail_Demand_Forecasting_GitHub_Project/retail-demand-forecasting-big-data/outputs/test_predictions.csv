@@ -1,0 +1,1201 @@
+Date,Store ID,Product ID,City,Category,units_sold,predicted_units
+2024-02-18,S01,P01,Hyderabad,Grocery,15,16.4
+2024-02-18,S01,P02,Hyderabad,Grocery,24,23.23
+2024-02-18,S01,P03,Hyderabad,Grocery,49,36.64
+2024-02-18,S01,P04,Hyderabad,Grocery,55,43.97
+2024-02-18,S01,P05,Hyderabad,Grocery,28,22.75
+2024-02-18,S01,P06,Hyderabad,Dairy,52,48.72
+2024-02-18,S01,P07,Hyderabad,Dairy,44,52.31
+2024-02-18,S01,P08,Hyderabad,Dairy,22,22.72
+2024-02-18,S01,P09,Hyderabad,Dairy,30,34.65
+2024-02-18,S01,P10,Hyderabad,Dairy,45,47.69
+2024-02-18,S01,P11,Hyderabad,Bakery,25,23.53
+2024-02-18,S01,P12,Hyderabad,Snacks,29,21.17
+2024-02-18,S01,P13,Hyderabad,Snacks,30,36.58
+2024-02-18,S01,P14,Hyderabad,Snacks,21,16.83
+2024-02-18,S01,P15,Hyderabad,Beverages,24,23.94
+2024-02-18,S01,P16,Hyderabad,Beverages,38,37.01
+2024-02-18,S01,P17,Hyderabad,Beverages,15,18.06
+2024-02-18,S01,P18,Hyderabad,Beverages,22,21.94
+2024-02-18,S01,P19,Hyderabad,Personal Care,40,30.21
+2024-02-18,S01,P20,Hyderabad,Personal Care,20,18.46
+2024-02-18,S02,P01,Secunderabad,Grocery,19,17.53
+2024-02-18,S02,P02,Secunderabad,Grocery,31,25.4
+2024-02-18,S02,P03,Secunderabad,Grocery,31,31.19
+2024-02-18,S02,P04,Secunderabad,Grocery,42,45.84
+2024-02-18,S02,P05,Secunderabad,Grocery,23,24.67
+2024-02-18,S02,P06,Secunderabad,Dairy,45,34.62
+2024-02-18,S02,P07,Secunderabad,Dairy,49,52.61
+2024-02-18,S02,P08,Secunderabad,Dairy,27,25.99
+2024-02-18,S02,P09,Secunderabad,Dairy,40,34.44
+2024-02-18,S02,P10,Secunderabad,Dairy,38,47.67
+2024-02-18,S02,P11,Secunderabad,Bakery,32,28.54
+2024-02-18,S02,P12,Secunderabad,Snacks,22,25.68
+2024-02-18,S02,P13,Secunderabad,Snacks,39,36.62
+2024-02-18,S02,P14,Secunderabad,Snacks,25,19.02
+2024-02-18,S02,P15,Secunderabad,Beverages,27,27.23
+2024-02-18,S02,P16,Secunderabad,Beverages,31,37.06
+2024-02-18,S02,P17,Secunderabad,Beverages,18,17.31
+2024-02-18,S02,P18,Secunderabad,Beverages,25,26.09
+2024-02-18,S02,P19,Secunderabad,Personal Care,36,31.5
+2024-02-18,S02,P20,Secunderabad,Personal Care,13,15.16
+2024-02-18,S03,P01,Warangal,Grocery,10,11.41
+2024-02-18,S03,P02,Warangal,Grocery,31,23.56
+2024-02-18,S03,P03,Warangal,Grocery,22,29.47
+2024-02-18,S03,P04,Warangal,Grocery,38,41.41
+2024-02-18,S03,P05,Warangal,Grocery,22,25.94
+2024-02-18,S03,P06,Warangal,Dairy,39,33.32
+2024-02-18,S03,P07,Warangal,Dairy,42,48.98
+2024-02-18,S03,P08,Warangal,Dairy,16,19.87
+2024-02-18,S03,P09,Warangal,Dairy,40,31.11
+2024-02-18,S03,P10,Warangal,Dairy,37,40.0
+2024-02-18,S03,P11,Warangal,Bakery,12,19.22
+2024-02-18,S03,P12,Warangal,Snacks,22,23.96
+2024-02-18,S03,P13,Warangal,Snacks,45,28.84
+2024-02-18,S03,P14,Warangal,Snacks,15,10.92
+2024-02-18,S03,P15,Warangal,Beverages,20,22.2
+2024-02-18,S03,P16,Warangal,Beverages,24,30.44
+2024-02-18,S03,P17,Warangal,Beverages,11,12.96
+2024-02-18,S03,P18,Warangal,Beverages,21,19.03
+2024-02-18,S03,P19,Warangal,Personal Care,30,33.11
+2024-02-18,S03,P20,Warangal,Personal Care,8,10.93
+2024-02-18,S04,P01,Karimnagar,Grocery,13,12.07
+2024-02-18,S04,P02,Karimnagar,Grocery,17,19.33
+2024-02-18,S04,P03,Karimnagar,Grocery,26,25.46
+2024-02-18,S04,P04,Karimnagar,Grocery,42,40.82
+2024-02-18,S04,P05,Karimnagar,Grocery,22,17.89
+2024-02-18,S04,P06,Karimnagar,Dairy,41,30.72
+2024-02-18,S04,P07,Karimnagar,Dairy,55,40.66
+2024-02-18,S04,P08,Karimnagar,Dairy,24,20.95
+2024-02-18,S04,P09,Karimnagar,Dairy,27,30.31
+2024-02-18,S04,P10,Karimnagar,Dairy,67,53.47
+2024-02-18,S04,P11,Karimnagar,Bakery,22,17.25
+2024-02-18,S04,P12,Karimnagar,Snacks,18,24.65
+2024-02-18,S04,P13,Karimnagar,Snacks,28,40.49
+2024-02-18,S04,P14,Karimnagar,Snacks,6,11.1
+2024-02-18,S04,P15,Karimnagar,Beverages,26,22.42
+2024-02-18,S04,P16,Karimnagar,Beverages,40,29.41
+2024-02-18,S04,P17,Karimnagar,Beverages,15,11.54
+2024-02-18,S04,P18,Karimnagar,Beverages,22,19.22
+2024-02-18,S04,P19,Karimnagar,Personal Care,26,25.3
+2024-02-18,S04,P20,Karimnagar,Personal Care,13,12.52
+2024-02-18,S05,P01,Nizamabad,Grocery,13,14.33
+2024-02-18,S05,P02,Nizamabad,Grocery,23,21.75
+2024-02-18,S05,P03,Nizamabad,Grocery,37,25.79
+2024-02-18,S05,P04,Nizamabad,Grocery,30,38.49
+2024-02-18,S05,P05,Nizamabad,Grocery,22,18.93
+2024-02-18,S05,P06,Nizamabad,Dairy,25,34.86
+2024-02-18,S05,P07,Nizamabad,Dairy,47,50.47
+2024-02-18,S05,P08,Nizamabad,Dairy,15,14.91
+2024-02-18,S05,P09,Nizamabad,Dairy,31,31.82
+2024-02-18,S05,P10,Nizamabad,Dairy,44,44.16
+2024-02-18,S05,P11,Nizamabad,Bakery,16,18.85
+2024-02-18,S05,P12,Nizamabad,Snacks,17,23.07
+2024-02-18,S05,P13,Nizamabad,Snacks,35,30.0
+2024-02-18,S05,P14,Nizamabad,Snacks,12,12.23
+2024-02-18,S05,P15,Nizamabad,Beverages,26,21.81
+2024-02-18,S05,P16,Nizamabad,Beverages,31,28.69
+2024-02-18,S05,P17,Nizamabad,Beverages,14,13.4
+2024-02-18,S05,P18,Nizamabad,Beverages,29,23.9
+2024-02-18,S05,P19,Nizamabad,Personal Care,28,24.45
+2024-02-18,S05,P20,Nizamabad,Personal Care,11,10.45
+2024-02-19,S01,P01,Hyderabad,Grocery,18,12.36
+2024-02-19,S01,P02,Hyderabad,Grocery,24,20.73
+2024-02-19,S01,P03,Hyderabad,Grocery,45,30.75
+2024-02-19,S01,P04,Hyderabad,Grocery,23,33.29
+2024-02-19,S01,P05,Hyderabad,Grocery,17,19.57
+2024-02-19,S01,P06,Hyderabad,Dairy,38,41.87
+2024-02-19,S01,P07,Hyderabad,Dairy,43,41.4
+2024-02-19,S01,P08,Hyderabad,Dairy,14,21.92
+2024-02-19,S01,P09,Hyderabad,Dairy,38,33.85
+2024-02-19,S01,P10,Hyderabad,Dairy,48,34.42
+2024-02-19,S01,P11,Hyderabad,Bakery,14,19.64
+2024-02-19,S01,P12,Hyderabad,Snacks,28,21.23
+2024-02-19,S01,P13,Hyderabad,Snacks,37,32.65
+2024-02-19,S01,P14,Hyderabad,Snacks,18,15.75
+2024-02-19,S01,P15,Hyderabad,Beverages,22,22.42
+2024-02-19,S01,P16,Hyderabad,Beverages,29,30.4
+2024-02-19,S01,P17,Hyderabad,Beverages,12,13.05
+2024-02-19,S01,P18,Hyderabad,Beverages,28,19.96
+2024-02-19,S01,P19,Hyderabad,Personal Care,14,26.8
+2024-02-19,S01,P20,Hyderabad,Personal Care,17,14.96
+2024-02-19,S02,P01,Secunderabad,Grocery,13,12.36
+2024-02-19,S02,P02,Secunderabad,Grocery,20,23.52
+2024-02-19,S02,P03,Secunderabad,Grocery,29,31.99
+2024-02-19,S02,P04,Secunderabad,Grocery,34,32.8
+2024-02-19,S02,P05,Secunderabad,Grocery,18,20.14
+2024-02-19,S02,P06,Secunderabad,Dairy,33,36.76
+2024-02-19,S02,P07,Secunderabad,Dairy,50,44.85
+2024-02-19,S02,P08,Secunderabad,Dairy,23,20.23
+2024-02-19,S02,P09,Secunderabad,Dairy,22,34.13
+2024-02-19,S02,P10,Secunderabad,Dairy,36,37.38
+2024-02-19,S02,P11,Secunderabad,Bakery,28,25.94
+2024-02-19,S02,P12,Secunderabad,Snacks,28,24.21
+2024-02-19,S02,P13,Secunderabad,Snacks,42,33.7
+2024-02-19,S02,P14,Secunderabad,Snacks,19,18.73
+2024-02-19,S02,P15,Secunderabad,Beverages,29,22.93
+2024-02-19,S02,P16,Secunderabad,Beverages,35,32.95
+2024-02-19,S02,P17,Secunderabad,Beverages,10,15.07
+2024-02-19,S02,P18,Secunderabad,Beverages,14,21.79
+2024-02-19,S02,P19,Secunderabad,Personal Care,30,24.54
+2024-02-19,S02,P20,Secunderabad,Personal Care,14,12.78
+2024-02-19,S03,P01,Warangal,Grocery,9,8.58
+2024-02-19,S03,P02,Warangal,Grocery,22,23.89
+2024-02-19,S03,P03,Warangal,Grocery,23,24.65
+2024-02-19,S03,P04,Warangal,Grocery,44,34.13
+2024-02-19,S03,P05,Warangal,Grocery,13,18.6
+2024-02-19,S03,P06,Warangal,Dairy,25,25.16
+2024-02-19,S03,P07,Warangal,Dairy,38,35.05
+2024-02-19,S03,P08,Warangal,Dairy,16,15.45
+2024-02-19,S03,P09,Warangal,Dairy,23,24.98
+2024-02-19,S03,P10,Warangal,Dairy,35,40.16
+2024-02-19,S03,P11,Warangal,Bakery,18,15.64
+2024-02-19,S03,P12,Warangal,Snacks,13,20.78
+2024-02-19,S03,P13,Warangal,Snacks,28,23.73
+2024-02-19,S03,P14,Warangal,Snacks,7,9.19
+2024-02-19,S03,P15,Warangal,Beverages,16,16.95
+2024-02-19,S03,P16,Warangal,Beverages,32,29.61
+2024-02-19,S03,P17,Warangal,Beverages,11,9.18
+2024-02-19,S03,P18,Warangal,Beverages,19,19.1
+2024-02-19,S03,P19,Warangal,Personal Care,22,31.25
+2024-02-19,S03,P20,Warangal,Personal Care,11,8.93
+2024-02-19,S04,P01,Karimnagar,Grocery,6,8.32
+2024-02-19,S04,P02,Karimnagar,Grocery,12,15.98
+2024-02-19,S04,P03,Karimnagar,Grocery,21,23.94
+2024-02-19,S04,P04,Karimnagar,Grocery,42,36.24
+2024-02-19,S04,P05,Karimnagar,Grocery,14,14.92
+2024-02-19,S04,P06,Karimnagar,Dairy,29,26.9
+2024-02-19,S04,P07,Karimnagar,Dairy,39,48.54
+2024-02-19,S04,P08,Karimnagar,Dairy,19,15.68
+2024-02-19,S04,P09,Karimnagar,Dairy,27,28.15
+2024-02-19,S04,P10,Karimnagar,Dairy,55,44.28
+2024-02-19,S04,P11,Karimnagar,Bakery,13,14.19
+2024-02-19,S04,P12,Karimnagar,Snacks,30,19.3
+2024-02-19,S04,P13,Karimnagar,Snacks,32,24.47
+2024-02-19,S04,P14,Karimnagar,Snacks,10,10.68
+2024-02-19,S04,P15,Karimnagar,Beverages,18,17.09
+2024-02-19,S04,P16,Karimnagar,Beverages,26,28.92
+2024-02-19,S04,P17,Karimnagar,Beverages,15,9.95
+2024-02-19,S04,P18,Karimnagar,Beverages,11,16.33
+2024-02-19,S04,P19,Karimnagar,Personal Care,25,23.11
+2024-02-19,S04,P20,Karimnagar,Personal Care,8,8.46
+2024-02-19,S05,P01,Nizamabad,Grocery,14,9.88
+2024-02-19,S05,P02,Nizamabad,Grocery,17,17.48
+2024-02-19,S05,P03,Nizamabad,Grocery,20,23.95
+2024-02-19,S05,P04,Nizamabad,Grocery,34,32.68
+2024-02-19,S05,P05,Nizamabad,Grocery,18,15.95
+2024-02-19,S05,P06,Nizamabad,Dairy,25,26.95
+2024-02-19,S05,P07,Nizamabad,Dairy,42,31.47
+2024-02-19,S05,P08,Nizamabad,Dairy,19,15.85
+2024-02-19,S05,P09,Nizamabad,Dairy,22,26.05
+2024-02-19,S05,P10,Nizamabad,Dairy,42,39.32
+2024-02-19,S05,P11,Nizamabad,Bakery,14,15.29
+2024-02-19,S05,P12,Nizamabad,Snacks,11,19.02
+2024-02-19,S05,P13,Nizamabad,Snacks,24,26.71
+2024-02-19,S05,P14,Nizamabad,Snacks,7,10.6
+2024-02-19,S05,P15,Nizamabad,Beverages,25,23.44
+2024-02-19,S05,P16,Nizamabad,Beverages,23,27.82
+2024-02-19,S05,P17,Nizamabad,Beverages,10,10.52
+2024-02-19,S05,P18,Nizamabad,Beverages,17,24.09
+2024-02-19,S05,P19,Nizamabad,Personal Care,16,23.37
+2024-02-19,S05,P20,Nizamabad,Personal Care,9,8.99
+2024-02-20,S01,P01,Hyderabad,Grocery,14,11.33
+2024-02-20,S01,P02,Hyderabad,Grocery,17,21.49
+2024-02-20,S01,P03,Hyderabad,Grocery,40,31.61
+2024-02-20,S01,P04,Hyderabad,Grocery,20,35.78
+2024-02-20,S01,P05,Hyderabad,Grocery,22,19.37
+2024-02-20,S01,P06,Hyderabad,Dairy,38,32.83
+2024-02-20,S01,P07,Hyderabad,Dairy,36,42.42
+2024-02-20,S01,P08,Hyderabad,Dairy,24,22.79
+2024-02-20,S01,P09,Hyderabad,Dairy,49,32.04
+2024-02-20,S01,P10,Hyderabad,Dairy,46,34.55
+2024-02-20,S01,P11,Hyderabad,Bakery,18,19.41
+2024-02-20,S01,P12,Hyderabad,Snacks,15,20.11
+2024-02-20,S01,P13,Hyderabad,Snacks,41,34.94
+2024-02-20,S01,P14,Hyderabad,Snacks,13,15.44
+2024-02-20,S01,P15,Hyderabad,Beverages,20,22.1
+2024-02-20,S01,P16,Hyderabad,Beverages,37,29.65
+2024-02-20,S01,P17,Hyderabad,Beverages,17,13.58
+2024-02-20,S01,P18,Hyderabad,Beverages,20,19.97
+2024-02-20,S01,P19,Hyderabad,Personal Care,28,26.38
+2024-02-20,S01,P20,Hyderabad,Personal Care,22,15.02
+2024-02-20,S02,P01,Secunderabad,Grocery,11,13.78
+2024-02-20,S02,P02,Secunderabad,Grocery,23,23.42
+2024-02-20,S02,P03,Secunderabad,Grocery,24,31.71
+2024-02-20,S02,P04,Secunderabad,Grocery,36,29.52
+2024-02-20,S02,P05,Secunderabad,Grocery,16,19.6
+2024-02-20,S02,P06,Secunderabad,Dairy,41,36.12
+2024-02-20,S02,P07,Secunderabad,Dairy,54,44.91
+2024-02-20,S02,P08,Secunderabad,Dairy,27,28.45
+2024-02-20,S02,P09,Secunderabad,Dairy,30,33.44
+2024-02-20,S02,P10,Secunderabad,Dairy,42,38.32
+2024-02-20,S02,P11,Secunderabad,Bakery,24,25.0
+2024-02-20,S02,P12,Secunderabad,Snacks,24,23.75
+2024-02-20,S02,P13,Secunderabad,Snacks,31,33.95
+2024-02-20,S02,P14,Secunderabad,Snacks,18,14.17
+2024-02-20,S02,P15,Secunderabad,Beverages,19,22.86
+2024-02-20,S02,P16,Secunderabad,Beverages,35,31.4
+2024-02-20,S02,P17,Secunderabad,Beverages,12,15.27
+2024-02-20,S02,P18,Secunderabad,Beverages,17,22.26
+2024-02-20,S02,P19,Secunderabad,Personal Care,29,23.4
+2024-02-20,S02,P20,Secunderabad,Personal Care,15,13.37
+2024-02-20,S03,P01,Warangal,Grocery,8,8.38
+2024-02-20,S03,P02,Warangal,Grocery,20,23.28
+2024-02-20,S03,P03,Warangal,Grocery,24,24.67
+2024-02-20,S03,P04,Warangal,Grocery,28,33.28
+2024-02-20,S03,P05,Warangal,Grocery,16,18.38
+2024-02-20,S03,P06,Warangal,Dairy,21,26.27
+2024-02-20,S03,P07,Warangal,Dairy,51,36.73
+2024-02-20,S03,P08,Warangal,Dairy,25,15.69
+2024-02-20,S03,P09,Warangal,Dairy,15,25.14
+2024-02-20,S03,P10,Warangal,Dairy,51,36.29
+2024-02-20,S03,P11,Warangal,Bakery,15,15.3
+2024-02-20,S03,P12,Warangal,Snacks,20,17.61
+2024-02-20,S03,P13,Warangal,Snacks,20,24.92
+2024-02-20,S03,P14,Warangal,Snacks,7,9.77
+2024-02-20,S03,P15,Warangal,Beverages,20,18.44
+2024-02-20,S03,P16,Warangal,Beverages,36,29.89
+2024-02-20,S03,P17,Warangal,Beverages,11,8.93
+2024-02-20,S03,P18,Warangal,Beverages,15,18.17
+2024-02-20,S03,P19,Warangal,Personal Care,24,30.28
+2024-02-20,S03,P20,Warangal,Personal Care,10,9.42
+2024-02-20,S04,P01,Karimnagar,Grocery,9,8.09
+2024-02-20,S04,P02,Karimnagar,Grocery,23,16.32
+2024-02-20,S04,P03,Karimnagar,Grocery,21,25.0
+2024-02-20,S04,P04,Karimnagar,Grocery,41,35.77
+2024-02-20,S04,P05,Karimnagar,Grocery,18,15.25
+2024-02-20,S04,P06,Karimnagar,Dairy,31,26.67
+2024-02-20,S04,P07,Karimnagar,Dairy,47,48.92
+2024-02-20,S04,P08,Karimnagar,Dairy,17,15.72
+2024-02-20,S04,P09,Karimnagar,Dairy,25,28.31
+2024-02-20,S04,P10,Karimnagar,Dairy,59,44.6
+2024-02-20,S04,P11,Karimnagar,Bakery,14,14.93
+2024-02-20,S04,P12,Karimnagar,Snacks,17,17.43
+2024-02-20,S04,P13,Karimnagar,Snacks,24,25.79
+2024-02-20,S04,P14,Karimnagar,Snacks,13,10.5
+2024-02-20,S04,P15,Karimnagar,Beverages,18,18.89
+2024-02-20,S04,P16,Karimnagar,Beverages,22,27.91
+2024-02-20,S04,P17,Karimnagar,Beverages,10,10.07
+2024-02-20,S04,P18,Karimnagar,Beverages,18,16.38
+2024-02-20,S04,P19,Karimnagar,Personal Care,20,22.81
+2024-02-20,S04,P20,Karimnagar,Personal Care,9,8.65
+2024-02-20,S05,P01,Nizamabad,Grocery,8,7.59
+2024-02-20,S05,P02,Nizamabad,Grocery,19,16.71
+2024-02-20,S05,P03,Nizamabad,Grocery,32,24.22
+2024-02-20,S05,P04,Nizamabad,Grocery,35,32.25
+2024-02-20,S05,P05,Nizamabad,Grocery,17,14.94
+2024-02-20,S05,P06,Nizamabad,Dairy,28,27.12
+2024-02-20,S05,P07,Nizamabad,Dairy,32,30.5
+2024-02-20,S05,P08,Nizamabad,Dairy,18,15.81
+2024-02-20,S05,P09,Nizamabad,Dairy,18,25.92
+2024-02-20,S05,P10,Nizamabad,Dairy,27,36.63
+2024-02-20,S05,P11,Nizamabad,Bakery,14,15.34
+2024-02-20,S05,P12,Nizamabad,Snacks,18,16.74
+2024-02-20,S05,P13,Nizamabad,Snacks,26,25.97
+2024-02-20,S05,P14,Nizamabad,Snacks,9,11.58
+2024-02-20,S05,P15,Nizamabad,Beverages,22,22.65
+2024-02-20,S05,P16,Nizamabad,Beverages,23,25.91
+2024-02-20,S05,P17,Nizamabad,Beverages,14,10.29
+2024-02-20,S05,P18,Nizamabad,Beverages,17,23.41
+2024-02-20,S05,P19,Nizamabad,Personal Care,19,23.81
+2024-02-20,S05,P20,Nizamabad,Personal Care,9,9.66
+2024-02-21,S01,P01,Hyderabad,Grocery,15,13.14
+2024-02-21,S01,P02,Hyderabad,Grocery,17,21.32
+2024-02-21,S01,P03,Hyderabad,Grocery,38,32.83
+2024-02-21,S01,P04,Hyderabad,Grocery,48,38.89
+2024-02-21,S01,P05,Hyderabad,Grocery,25,19.82
+2024-02-21,S01,P06,Hyderabad,Dairy,47,30.6
+2024-02-21,S01,P07,Hyderabad,Dairy,32,37.74
+2024-02-21,S01,P08,Hyderabad,Dairy,26,21.56
+2024-02-21,S01,P09,Hyderabad,Dairy,14,31.79
+2024-02-21,S01,P10,Hyderabad,Dairy,19,35.76
+2024-02-21,S01,P11,Hyderabad,Bakery,20,18.28
+2024-02-21,S01,P12,Hyderabad,Snacks,27,20.0
+2024-02-21,S01,P13,Hyderabad,Snacks,36,34.96
+2024-02-21,S01,P14,Hyderabad,Snacks,17,15.82
+2024-02-21,S01,P15,Hyderabad,Beverages,19,22.13
+2024-02-21,S01,P16,Hyderabad,Beverages,23,28.88
+2024-02-21,S01,P17,Hyderabad,Beverages,15,16.53
+2024-02-21,S01,P18,Hyderabad,Beverages,29,19.2
+2024-02-21,S01,P19,Hyderabad,Personal Care,34,27.28
+2024-02-21,S01,P20,Hyderabad,Personal Care,16,13.58
+2024-02-21,S02,P01,Secunderabad,Grocery,12,14.51
+2024-02-21,S02,P02,Secunderabad,Grocery,23,22.8
+2024-02-21,S02,P03,Secunderabad,Grocery,33,31.34
+2024-02-21,S02,P04,Secunderabad,Grocery,36,35.61
+2024-02-21,S02,P05,Secunderabad,Grocery,16,18.91
+2024-02-21,S02,P06,Secunderabad,Dairy,47,33.56
+2024-02-21,S02,P07,Secunderabad,Dairy,44,41.33
+2024-02-21,S02,P08,Secunderabad,Dairy,30,27.45
+2024-02-21,S02,P09,Secunderabad,Dairy,32,31.44
+2024-02-21,S02,P10,Secunderabad,Dairy,41,40.98
+2024-02-21,S02,P11,Secunderabad,Bakery,24,24.75
+2024-02-21,S02,P12,Secunderabad,Snacks,32,24.13
+2024-02-21,S02,P13,Secunderabad,Snacks,29,34.14
+2024-02-21,S02,P14,Secunderabad,Snacks,15,14.3
+2024-02-21,S02,P15,Secunderabad,Beverages,21,23.66
+2024-02-21,S02,P16,Secunderabad,Beverages,36,30.37
+2024-02-21,S02,P17,Secunderabad,Beverages,11,14.99
+2024-02-21,S02,P18,Secunderabad,Beverages,27,21.86
+2024-02-21,S02,P19,Secunderabad,Personal Care,31,25.34
+2024-02-21,S02,P20,Secunderabad,Personal Care,15,14.51
+2024-02-21,S03,P01,Warangal,Grocery,9,8.59
+2024-02-21,S03,P02,Warangal,Grocery,15,17.79
+2024-02-21,S03,P03,Warangal,Grocery,19,23.52
+2024-02-21,S03,P04,Warangal,Grocery,47,37.72
+2024-02-21,S03,P05,Warangal,Grocery,15,18.46
+2024-02-21,S03,P06,Warangal,Dairy,26,27.49
+2024-02-21,S03,P07,Warangal,Dairy,38,35.3
+2024-02-21,S03,P08,Warangal,Dairy,20,16.15
+2024-02-21,S03,P09,Warangal,Dairy,29,26.89
+2024-02-21,S03,P10,Warangal,Dairy,24,38.97
+2024-02-21,S03,P11,Warangal,Bakery,18,15.0
+2024-02-21,S03,P12,Warangal,Snacks,22,19.23
+2024-02-21,S03,P13,Warangal,Snacks,24,25.47
+2024-02-21,S03,P14,Warangal,Snacks,13,10.29
+2024-02-21,S03,P15,Warangal,Beverages,14,18.05
+2024-02-21,S03,P16,Warangal,Beverages,35,30.06
+2024-02-21,S03,P17,Warangal,Beverages,10,8.56
+2024-02-21,S03,P18,Warangal,Beverages,16,17.66
+2024-02-21,S03,P19,Warangal,Personal Care,32,28.81
+2024-02-21,S03,P20,Warangal,Personal Care,9,8.4
+2024-02-21,S04,P01,Karimnagar,Grocery,9,8.29
+2024-02-21,S04,P02,Karimnagar,Grocery,23,16.57
+2024-02-21,S04,P03,Karimnagar,Grocery,23,24.04
+2024-02-21,S04,P04,Karimnagar,Grocery,41,45.33
+2024-02-21,S04,P05,Karimnagar,Grocery,18,15.87
+2024-02-21,S04,P06,Karimnagar,Dairy,24,26.04
+2024-02-21,S04,P07,Karimnagar,Dairy,48,48.98
+2024-02-21,S04,P08,Karimnagar,Dairy,21,15.82
+2024-02-21,S04,P09,Karimnagar,Dairy,41,27.94
+2024-02-21,S04,P10,Karimnagar,Dairy,38,37.68
+2024-02-21,S04,P11,Karimnagar,Bakery,16,15.35
+2024-02-21,S04,P12,Karimnagar,Snacks,23,18.09
+2024-02-21,S04,P13,Karimnagar,Snacks,23,25.24
+2024-02-21,S04,P14,Karimnagar,Snacks,13,9.37
+2024-02-21,S04,P15,Karimnagar,Beverages,23,18.36
+2024-02-21,S04,P16,Karimnagar,Beverages,17,28.79
+2024-02-21,S04,P17,Karimnagar,Beverages,11,9.71
+2024-02-21,S04,P18,Karimnagar,Beverages,19,16.09
+2024-02-21,S04,P19,Karimnagar,Personal Care,24,22.03
+2024-02-21,S04,P20,Karimnagar,Personal Care,10,8.35
+2024-02-21,S05,P01,Nizamabad,Grocery,9,8.36
+2024-02-21,S05,P02,Nizamabad,Grocery,10,16.5
+2024-02-21,S05,P03,Nizamabad,Grocery,22,23.39
+2024-02-21,S05,P04,Nizamabad,Grocery,31,34.58
+2024-02-21,S05,P05,Nizamabad,Grocery,15,15.4
+2024-02-21,S05,P06,Nizamabad,Dairy,24,25.68
+2024-02-21,S05,P07,Nizamabad,Dairy,48,31.21
+2024-02-21,S05,P08,Nizamabad,Dairy,19,16.52
+2024-02-21,S05,P09,Nizamabad,Dairy,28,25.61
+2024-02-21,S05,P10,Nizamabad,Dairy,34,35.32
+2024-02-21,S05,P11,Nizamabad,Bakery,18,15.41
+2024-02-21,S05,P12,Nizamabad,Snacks,27,24.07
+2024-02-21,S05,P13,Nizamabad,Snacks,20,23.68
+2024-02-21,S05,P14,Nizamabad,Snacks,12,11.09
+2024-02-21,S05,P15,Nizamabad,Beverages,19,22.06
+2024-02-21,S05,P16,Nizamabad,Beverages,28,27.11
+2024-02-21,S05,P17,Nizamabad,Beverages,9,9.68
+2024-02-21,S05,P18,Nizamabad,Beverages,17,17.76
+2024-02-21,S05,P19,Nizamabad,Personal Care,26,25.2
+2024-02-21,S05,P20,Nizamabad,Personal Care,9,8.6
+2024-02-22,S01,P01,Hyderabad,Grocery,16,13.98
+2024-02-22,S01,P02,Hyderabad,Grocery,30,21.68
+2024-02-22,S01,P03,Hyderabad,Grocery,41,29.23
+2024-02-22,S01,P04,Hyderabad,Grocery,38,40.54
+2024-02-22,S01,P05,Hyderabad,Grocery,15,19.58
+2024-02-22,S01,P06,Hyderabad,Dairy,33,28.83
+2024-02-22,S01,P07,Hyderabad,Dairy,48,41.75
+2024-02-22,S01,P08,Hyderabad,Dairy,20,24.13
+2024-02-22,S01,P09,Hyderabad,Dairy,29,30.87
+2024-02-22,S01,P10,Hyderabad,Dairy,50,35.14
+2024-02-22,S01,P11,Hyderabad,Bakery,16,18.4
+2024-02-22,S01,P12,Hyderabad,Snacks,30,20.69
+2024-02-22,S01,P13,Hyderabad,Snacks,37,33.45
+2024-02-22,S01,P14,Hyderabad,Snacks,17,15.13
+2024-02-22,S01,P15,Hyderabad,Beverages,19,23.22
+2024-02-22,S01,P16,Hyderabad,Beverages,24,27.93
+2024-02-22,S01,P17,Hyderabad,Beverages,19,16.31
+2024-02-22,S01,P18,Hyderabad,Beverages,18,19.92
+2024-02-22,S01,P19,Hyderabad,Personal Care,26,28.57
+2024-02-22,S01,P20,Hyderabad,Personal Care,17,14.6
+2024-02-22,S02,P01,Secunderabad,Grocery,15,15.51
+2024-02-22,S02,P02,Secunderabad,Grocery,24,24.56
+2024-02-22,S02,P03,Secunderabad,Grocery,27,23.1
+2024-02-22,S02,P04,Secunderabad,Grocery,35,37.72
+2024-02-22,S02,P05,Secunderabad,Grocery,23,25.18
+2024-02-22,S02,P06,Secunderabad,Dairy,23,30.68
+2024-02-22,S02,P07,Secunderabad,Dairy,25,41.64
+2024-02-22,S02,P08,Secunderabad,Dairy,27,26.79
+2024-02-22,S02,P09,Secunderabad,Dairy,29,29.64
+2024-02-22,S02,P10,Secunderabad,Dairy,49,40.08
+2024-02-22,S02,P11,Secunderabad,Bakery,17,22.13
+2024-02-22,S02,P12,Secunderabad,Snacks,26,25.22
+2024-02-22,S02,P13,Secunderabad,Snacks,37,30.72
+2024-02-22,S02,P14,Secunderabad,Snacks,15,14.9
+2024-02-22,S02,P15,Secunderabad,Beverages,23,24.64
+2024-02-22,S02,P16,Secunderabad,Beverages,29,30.01
+2024-02-22,S02,P17,Secunderabad,Beverages,14,14.96
+2024-02-22,S02,P18,Secunderabad,Beverages,26,21.78
+2024-02-22,S02,P19,Secunderabad,Personal Care,25,23.59
+2024-02-22,S02,P20,Secunderabad,Personal Care,17,13.2
+2024-02-22,S03,P01,Warangal,Grocery,5,8.07
+2024-02-22,S03,P02,Warangal,Grocery,17,16.96
+2024-02-22,S03,P03,Warangal,Grocery,23,26.45
+2024-02-22,S03,P04,Warangal,Grocery,41,37.68
+2024-02-22,S03,P05,Warangal,Grocery,21,16.84
+2024-02-22,S03,P06,Warangal,Dairy,31,24.72
+2024-02-22,S03,P07,Warangal,Dairy,31,35.28
+2024-02-22,S03,P08,Warangal,Dairy,18,17.8
+2024-02-22,S03,P09,Warangal,Dairy,24,26.11
+2024-02-22,S03,P10,Warangal,Dairy,31,37.77
+2024-02-22,S03,P11,Warangal,Bakery,17,14.22
+2024-02-22,S03,P12,Warangal,Snacks,21,19.4
+2024-02-22,S03,P13,Warangal,Snacks,36,30.98
+2024-02-22,S03,P14,Warangal,Snacks,9,10.54
+2024-02-22,S03,P15,Warangal,Beverages,19,17.68
+2024-02-22,S03,P16,Warangal,Beverages,36,30.91
+2024-02-22,S03,P17,Warangal,Beverages,10,8.97
+2024-02-22,S03,P18,Warangal,Beverages,15,17.05
+2024-02-22,S03,P19,Warangal,Personal Care,25,21.15
+2024-02-22,S03,P20,Warangal,Personal Care,9,8.37
+2024-02-22,S04,P01,Karimnagar,Grocery,8,7.45
+2024-02-22,S04,P02,Karimnagar,Grocery,24,15.83
+2024-02-22,S04,P03,Karimnagar,Grocery,28,27.24
+2024-02-22,S04,P04,Karimnagar,Grocery,41,42.01
+2024-02-22,S04,P05,Karimnagar,Grocery,14,14.83
+2024-02-22,S04,P06,Karimnagar,Dairy,36,26.42
+2024-02-22,S04,P07,Karimnagar,Dairy,54,48.74
+2024-02-22,S04,P08,Karimnagar,Dairy,18,18.88
+2024-02-22,S04,P09,Karimnagar,Dairy,25,27.44
+2024-02-22,S04,P10,Karimnagar,Dairy,36,35.63
+2024-02-22,S04,P11,Karimnagar,Bakery,14,14.81
+2024-02-22,S04,P12,Karimnagar,Snacks,20,18.86
+2024-02-22,S04,P13,Karimnagar,Snacks,30,27.09
+2024-02-22,S04,P14,Karimnagar,Snacks,7,9.9
+2024-02-22,S04,P15,Karimnagar,Beverages,14,18.14
+2024-02-22,S04,P16,Karimnagar,Beverages,19,28.44
+2024-02-22,S04,P17,Karimnagar,Beverages,6,9.82
+2024-02-22,S04,P18,Karimnagar,Beverages,16,15.6
+2024-02-22,S04,P19,Karimnagar,Personal Care,31,22.96
+2024-02-22,S04,P20,Karimnagar,Personal Care,8,8.64
+2024-02-22,S05,P01,Nizamabad,Grocery,8,8.03
+2024-02-22,S05,P02,Nizamabad,Grocery,19,16.59
+2024-02-22,S05,P03,Nizamabad,Grocery,24,25.62
+2024-02-22,S05,P04,Nizamabad,Grocery,31,34.41
+2024-02-22,S05,P05,Nizamabad,Grocery,11,15.44
+2024-02-22,S05,P06,Nizamabad,Dairy,27,24.79
+2024-02-22,S05,P07,Nizamabad,Dairy,48,31.15
+2024-02-22,S05,P08,Nizamabad,Dairy,14,16.64
+2024-02-22,S05,P09,Nizamabad,Dairy,28,25.22
+2024-02-22,S05,P10,Nizamabad,Dairy,44,33.56
+2024-02-22,S05,P11,Nizamabad,Bakery,15,15.43
+2024-02-22,S05,P12,Nizamabad,Snacks,23,23.94
+2024-02-22,S05,P13,Nizamabad,Snacks,22,24.02
+2024-02-22,S05,P14,Nizamabad,Snacks,10,11.08
+2024-02-22,S05,P15,Nizamabad,Beverages,26,21.97
+2024-02-22,S05,P16,Nizamabad,Beverages,34,27.42
+2024-02-22,S05,P17,Nizamabad,Beverages,13,9.54
+2024-02-22,S05,P18,Nizamabad,Beverages,18,17.86
+2024-02-22,S05,P19,Nizamabad,Personal Care,29,22.85
+2024-02-22,S05,P20,Nizamabad,Personal Care,9,8.97
+2024-02-23,S01,P01,Hyderabad,Grocery,15,16.14
+2024-02-23,S01,P02,Hyderabad,Grocery,26,21.17
+2024-02-23,S01,P03,Hyderabad,Grocery,34,32.32
+2024-02-23,S01,P04,Hyderabad,Grocery,36,38.14
+2024-02-23,S01,P05,Hyderabad,Grocery,13,19.24
+2024-02-23,S01,P06,Hyderabad,Dairy,39,30.08
+2024-02-23,S01,P07,Hyderabad,Dairy,42,41.85
+2024-02-23,S01,P08,Hyderabad,Dairy,15,23.84
+2024-02-23,S01,P09,Hyderabad,Dairy,34,30.68
+2024-02-23,S01,P10,Hyderabad,Dairy,43,35.32
+2024-02-23,S01,P11,Hyderabad,Bakery,26,18.51
+2024-02-23,S01,P12,Hyderabad,Snacks,27,19.25
+2024-02-23,S01,P13,Hyderabad,Snacks,31,30.55
+2024-02-23,S01,P14,Hyderabad,Snacks,19,19.55
+2024-02-23,S01,P15,Hyderabad,Beverages,21,22.58
+2024-02-23,S01,P16,Hyderabad,Beverages,34,29.9
+2024-02-23,S01,P17,Hyderabad,Beverages,16,16.1
+2024-02-23,S01,P18,Hyderabad,Beverages,24,20.8
+2024-02-23,S01,P19,Hyderabad,Personal Care,31,27.33
+2024-02-23,S01,P20,Hyderabad,Personal Care,11,14.92
+2024-02-23,S02,P01,Secunderabad,Grocery,19,15.85
+2024-02-23,S02,P02,Secunderabad,Grocery,19,24.36
+2024-02-23,S02,P03,Secunderabad,Grocery,22,23.49
+2024-02-23,S02,P04,Secunderabad,Grocery,69,37.84
+2024-02-23,S02,P05,Secunderabad,Grocery,24,24.61
+2024-02-23,S02,P06,Secunderabad,Dairy,39,34.63
+2024-02-23,S02,P07,Secunderabad,Dairy,41,40.8
+2024-02-23,S02,P08,Secunderabad,Dairy,33,27.17
+2024-02-23,S02,P09,Secunderabad,Dairy,35,33.16
+2024-02-23,S02,P10,Secunderabad,Dairy,45,44.25
+2024-02-23,S02,P11,Secunderabad,Bakery,24,22.58
+2024-02-23,S02,P12,Secunderabad,Snacks,14,25.28
+2024-02-23,S02,P13,Secunderabad,Snacks,28,31.57
+2024-02-23,S02,P14,Secunderabad,Snacks,16,14.21
+2024-02-23,S02,P15,Secunderabad,Beverages,31,22.43
+2024-02-23,S02,P16,Secunderabad,Beverages,28,30.15
+2024-02-23,S02,P17,Secunderabad,Beverages,16,14.5
+2024-02-23,S02,P18,Secunderabad,Beverages,23,20.97
+2024-02-23,S02,P19,Secunderabad,Personal Care,19,25.9
+2024-02-23,S02,P20,Secunderabad,Personal Care,9,13.54
+2024-02-23,S03,P01,Warangal,Grocery,7,8.66
+2024-02-23,S03,P02,Warangal,Grocery,24,17.1
+2024-02-23,S03,P03,Warangal,Grocery,31,23.69
+2024-02-23,S03,P04,Warangal,Grocery,36,37.03
+2024-02-23,S03,P05,Warangal,Grocery,17,17.72
+2024-02-23,S03,P06,Warangal,Dairy,29,24.41
+2024-02-23,S03,P07,Warangal,Dairy,42,34.7
+2024-02-23,S03,P08,Warangal,Dairy,17,17.93
+2024-02-23,S03,P09,Warangal,Dairy,24,25.04
+2024-02-23,S03,P10,Warangal,Dairy,35,36.14
+2024-02-23,S03,P11,Warangal,Bakery,15,15.09
+2024-02-23,S03,P12,Warangal,Snacks,24,18.71
+2024-02-23,S03,P13,Warangal,Snacks,30,30.93
+2024-02-23,S03,P14,Warangal,Snacks,14,10.32
+2024-02-23,S03,P15,Warangal,Beverages,19,17.52
+2024-02-23,S03,P16,Warangal,Beverages,23,36.99
+2024-02-23,S03,P17,Warangal,Beverages,14,8.4
+2024-02-23,S03,P18,Warangal,Beverages,18,16.64
+2024-02-23,S03,P19,Warangal,Personal Care,16,24.07
+2024-02-23,S03,P20,Warangal,Personal Care,12,8.36
+2024-02-23,S04,P01,Karimnagar,Grocery,13,9.68
+2024-02-23,S04,P02,Karimnagar,Grocery,22,16.64
+2024-02-23,S04,P03,Karimnagar,Grocery,22,24.42
+2024-02-23,S04,P04,Karimnagar,Grocery,37,42.26
+2024-02-23,S04,P05,Karimnagar,Grocery,19,15.81
+2024-02-23,S04,P06,Karimnagar,Dairy,33,25.25
+2024-02-23,S04,P07,Karimnagar,Dairy,40,33.33
+2024-02-23,S04,P08,Karimnagar,Dairy,17,19.48
+2024-02-23,S04,P09,Karimnagar,Dairy,30,26.64
+2024-02-23,S04,P10,Karimnagar,Dairy,32,36.74
+2024-02-23,S04,P11,Karimnagar,Bakery,17,15.36
+2024-02-23,S04,P12,Karimnagar,Snacks,17,18.52
+2024-02-23,S04,P13,Karimnagar,Snacks,22,24.45
+2024-02-23,S04,P14,Karimnagar,Snacks,12,9.73
+2024-02-23,S04,P15,Karimnagar,Beverages,16,17.72
+2024-02-23,S04,P16,Karimnagar,Beverages,27,29.25
+2024-02-23,S04,P17,Karimnagar,Beverages,12,9.9
+2024-02-23,S04,P18,Karimnagar,Beverages,20,16.04
+2024-02-23,S04,P19,Karimnagar,Personal Care,19,25.02
+2024-02-23,S04,P20,Karimnagar,Personal Care,13,8.52
+2024-02-23,S05,P01,Nizamabad,Grocery,6,8.44
+2024-02-23,S05,P02,Nizamabad,Grocery,16,16.06
+2024-02-23,S05,P03,Nizamabad,Grocery,30,24.4
+2024-02-23,S05,P04,Nizamabad,Grocery,36,33.87
+2024-02-23,S05,P05,Nizamabad,Grocery,18,15.57
+2024-02-23,S05,P06,Nizamabad,Dairy,31,25.56
+2024-02-23,S05,P07,Nizamabad,Dairy,33,31.81
+2024-02-23,S05,P08,Nizamabad,Dairy,25,15.77
+2024-02-23,S05,P09,Nizamabad,Dairy,38,36.19
+2024-02-23,S05,P10,Nizamabad,Dairy,36,34.16
+2024-02-23,S05,P11,Nizamabad,Bakery,10,15.94
+2024-02-23,S05,P12,Nizamabad,Snacks,32,23.08
+2024-02-23,S05,P13,Nizamabad,Snacks,27,23.83
+2024-02-23,S05,P14,Nizamabad,Snacks,12,11.58
+2024-02-23,S05,P15,Nizamabad,Beverages,17,16.7
+2024-02-23,S05,P16,Nizamabad,Beverages,24,28.47
+2024-02-23,S05,P17,Nizamabad,Beverages,9,9.68
+2024-02-23,S05,P18,Nizamabad,Beverages,20,16.35
+2024-02-23,S05,P19,Nizamabad,Personal Care,23,28.25
+2024-02-23,S05,P20,Nizamabad,Personal Care,10,8.84
+2024-02-24,S01,P01,Hyderabad,Grocery,12,17.32
+2024-02-24,S01,P02,Hyderabad,Grocery,20,24.1
+2024-02-24,S01,P03,Hyderabad,Grocery,26,33.05
+2024-02-24,S01,P04,Hyderabad,Grocery,35,44.23
+2024-02-24,S01,P05,Hyderabad,Grocery,28,24.25
+2024-02-24,S01,P06,Hyderabad,Dairy,38,33.94
+2024-02-24,S01,P07,Hyderabad,Dairy,59,52.46
+2024-02-24,S01,P08,Hyderabad,Dairy,18,24.93
+2024-02-24,S01,P09,Hyderabad,Dairy,38,33.86
+2024-02-24,S01,P10,Hyderabad,Dairy,61,44.39
+2024-02-24,S01,P11,Hyderabad,Bakery,17,24.38
+2024-02-24,S01,P12,Hyderabad,Snacks,20,20.75
+2024-02-24,S01,P13,Hyderabad,Snacks,42,31.42
+2024-02-24,S01,P14,Hyderabad,Snacks,19,19.26
+2024-02-24,S01,P15,Hyderabad,Beverages,27,24.92
+2024-02-24,S01,P16,Hyderabad,Beverages,47,37.95
+2024-02-24,S01,P17,Hyderabad,Beverages,25,17.76
+2024-02-24,S01,P18,Hyderabad,Beverages,34,24.67
+2024-02-24,S01,P19,Hyderabad,Personal Care,37,33.39
+2024-02-24,S01,P20,Hyderabad,Personal Care,15,16.92
+2024-02-24,S02,P01,Secunderabad,Grocery,18,17.63
+2024-02-24,S02,P02,Secunderabad,Grocery,38,29.71
+2024-02-24,S02,P03,Secunderabad,Grocery,39,28.6
+2024-02-24,S02,P04,Secunderabad,Grocery,45,44.04
+2024-02-24,S02,P05,Secunderabad,Grocery,26,29.54
+2024-02-24,S02,P06,Secunderabad,Dairy,38,36.55
+2024-02-24,S02,P07,Secunderabad,Dairy,42,51.11
+2024-02-24,S02,P08,Secunderabad,Dairy,22,25.74
+2024-02-24,S02,P09,Secunderabad,Dairy,43,35.69
+2024-02-24,S02,P10,Secunderabad,Dairy,45,45.0
+2024-02-24,S02,P11,Secunderabad,Bakery,27,22.14
+2024-02-24,S02,P12,Secunderabad,Snacks,27,24.89
+2024-02-24,S02,P13,Secunderabad,Snacks,44,37.45
+2024-02-24,S02,P14,Secunderabad,Snacks,15,16.05
+2024-02-24,S02,P15,Secunderabad,Beverages,40,24.26
+2024-02-24,S02,P16,Secunderabad,Beverages,49,34.72
+2024-02-24,S02,P17,Secunderabad,Beverages,13,15.5
+2024-02-24,S02,P18,Secunderabad,Beverages,33,23.82
+2024-02-24,S02,P19,Secunderabad,Personal Care,40,34.68
+2024-02-24,S02,P20,Secunderabad,Personal Care,15,14.29
+2024-02-24,S03,P01,Warangal,Grocery,11,10.76
+2024-02-24,S03,P02,Warangal,Grocery,18,21.27
+2024-02-24,S03,P03,Warangal,Grocery,26,29.39
+2024-02-24,S03,P04,Warangal,Grocery,22,40.56
+2024-02-24,S03,P05,Warangal,Grocery,20,19.63
+2024-02-24,S03,P06,Warangal,Dairy,29,33.88
+2024-02-24,S03,P07,Warangal,Dairy,56,49.21
+2024-02-24,S03,P08,Warangal,Dairy,25,20.5
+2024-02-24,S03,P09,Warangal,Dairy,35,31.85
+2024-02-24,S03,P10,Warangal,Dairy,50,48.25
+2024-02-24,S03,P11,Warangal,Bakery,16,18.12
+2024-02-24,S03,P12,Warangal,Snacks,27,24.08
+2024-02-24,S03,P13,Warangal,Snacks,39,35.49
+2024-02-24,S03,P14,Warangal,Snacks,13,11.09
+2024-02-24,S03,P15,Warangal,Beverages,18,21.64
+2024-02-24,S03,P16,Warangal,Beverages,20,30.06
+2024-02-24,S03,P17,Warangal,Beverages,10,12.26
+2024-02-24,S03,P18,Warangal,Beverages,26,19.95
+2024-02-24,S03,P19,Warangal,Personal Care,17,29.65
+2024-02-24,S03,P20,Warangal,Personal Care,10,10.67
+2024-02-24,S04,P01,Karimnagar,Grocery,8,13.9
+2024-02-24,S04,P02,Karimnagar,Grocery,15,19.94
+2024-02-24,S04,P03,Karimnagar,Grocery,43,25.71
+2024-02-24,S04,P04,Karimnagar,Grocery,55,42.35
+2024-02-24,S04,P05,Karimnagar,Grocery,18,18.37
+2024-02-24,S04,P06,Karimnagar,Dairy,22,28.13
+2024-02-24,S04,P07,Karimnagar,Dairy,32,41.62
+2024-02-24,S04,P08,Karimnagar,Dairy,29,20.86
+2024-02-24,S04,P09,Karimnagar,Dairy,15,26.51
+2024-02-24,S04,P10,Karimnagar,Dairy,49,38.2
+2024-02-24,S04,P11,Karimnagar,Bakery,21,16.97
+2024-02-24,S04,P12,Karimnagar,Snacks,30,24.88
+2024-02-24,S04,P13,Karimnagar,Snacks,27,32.83
+2024-02-24,S04,P14,Karimnagar,Snacks,15,10.73
+2024-02-24,S04,P15,Karimnagar,Beverages,19,21.07
+2024-02-24,S04,P16,Karimnagar,Beverages,37,27.13
+2024-02-24,S04,P17,Karimnagar,Beverages,11,10.99
+2024-02-24,S04,P18,Karimnagar,Beverages,34,25.54
+2024-02-24,S04,P19,Karimnagar,Personal Care,27,26.13
+2024-02-24,S04,P20,Karimnagar,Personal Care,13,11.59
+2024-02-24,S05,P01,Nizamabad,Grocery,11,11.47
+2024-02-24,S05,P02,Nizamabad,Grocery,26,22.4
+2024-02-24,S05,P03,Nizamabad,Grocery,37,28.23
+2024-02-24,S05,P04,Nizamabad,Grocery,32,38.4
+2024-02-24,S05,P05,Nizamabad,Grocery,23,19.13
+2024-02-24,S05,P06,Nizamabad,Dairy,38,33.96
+2024-02-24,S05,P07,Nizamabad,Dairy,45,50.17
+2024-02-24,S05,P08,Nizamabad,Dairy,16,16.34
+2024-02-24,S05,P09,Nizamabad,Dairy,43,38.93
+2024-02-24,S05,P10,Nizamabad,Dairy,46,42.26
+2024-02-24,S05,P11,Nizamabad,Bakery,19,19.35
+2024-02-24,S05,P12,Nizamabad,Snacks,37,24.05
+2024-02-24,S05,P13,Nizamabad,Snacks,34,29.64
+2024-02-24,S05,P14,Nizamabad,Snacks,13,13.54
+2024-02-24,S05,P15,Nizamabad,Beverages,25,21.06
+2024-02-24,S05,P16,Nizamabad,Beverages,28,27.12
+2024-02-24,S05,P17,Nizamabad,Beverages,12,12.14
+2024-02-24,S05,P18,Nizamabad,Beverages,21,21.29
+2024-02-24,S05,P19,Nizamabad,Personal Care,28,29.85
+2024-02-24,S05,P20,Nizamabad,Personal Care,13,10.53
+2024-02-25,S01,P01,Hyderabad,Grocery,17,16.93
+2024-02-25,S01,P02,Hyderabad,Grocery,33,26.19
+2024-02-25,S01,P03,Hyderabad,Grocery,44,36.04
+2024-02-25,S01,P04,Hyderabad,Grocery,47,41.55
+2024-02-25,S01,P05,Hyderabad,Grocery,19,25.94
+2024-02-25,S01,P06,Hyderabad,Dairy,37,33.53
+2024-02-25,S01,P07,Hyderabad,Dairy,38,51.75
+2024-02-25,S01,P08,Hyderabad,Dairy,20,24.46
+2024-02-25,S01,P09,Hyderabad,Dairy,33,34.08
+2024-02-25,S01,P10,Hyderabad,Dairy,25,45.41
+2024-02-25,S01,P11,Hyderabad,Bakery,27,32.73
+2024-02-25,S01,P12,Hyderabad,Snacks,36,23.03
+2024-02-25,S01,P13,Hyderabad,Snacks,40,35.93
+2024-02-25,S01,P14,Hyderabad,Snacks,24,19.16
+2024-02-25,S01,P15,Hyderabad,Beverages,26,26.2
+2024-02-25,S01,P16,Hyderabad,Beverages,43,36.46
+2024-02-25,S01,P17,Hyderabad,Beverages,14,16.17
+2024-02-25,S01,P18,Hyderabad,Beverages,25,26.57
+2024-02-25,S01,P19,Hyderabad,Personal Care,26,31.66
+2024-02-25,S01,P20,Hyderabad,Personal Care,13,19.24
+2024-02-25,S02,P01,Secunderabad,Grocery,8,17.46
+2024-02-25,S02,P02,Secunderabad,Grocery,30,27.75
+2024-02-25,S02,P03,Secunderabad,Grocery,44,31.42
+2024-02-25,S02,P04,Secunderabad,Grocery,49,44.62
+2024-02-25,S02,P05,Secunderabad,Grocery,35,27.62
+2024-02-25,S02,P06,Secunderabad,Dairy,32,35.54
+2024-02-25,S02,P07,Secunderabad,Dairy,40,52.59
+2024-02-25,S02,P08,Secunderabad,Dairy,35,26.25
+2024-02-25,S02,P09,Secunderabad,Dairy,36,35.18
+2024-02-25,S02,P10,Secunderabad,Dairy,38,44.87
+2024-02-25,S02,P11,Secunderabad,Bakery,24,20.97
+2024-02-25,S02,P12,Secunderabad,Snacks,22,25.19
+2024-02-25,S02,P13,Secunderabad,Snacks,41,34.02
+2024-02-25,S02,P14,Secunderabad,Snacks,18,15.67
+2024-02-25,S02,P15,Secunderabad,Beverages,24,24.5
+2024-02-25,S02,P16,Secunderabad,Beverages,43,35.29
+2024-02-25,S02,P17,Secunderabad,Beverages,20,15.33
+2024-02-25,S02,P18,Secunderabad,Beverages,30,22.77
+2024-02-25,S02,P19,Secunderabad,Personal Care,38,38.92
+2024-02-25,S02,P20,Secunderabad,Personal Care,13,14.47
+2024-02-25,S03,P01,Warangal,Grocery,14,10.9
+2024-02-25,S03,P02,Warangal,Grocery,20,21.79
+2024-02-25,S03,P03,Warangal,Grocery,30,27.7
+2024-02-25,S03,P04,Warangal,Grocery,34,39.81
+2024-02-25,S03,P05,Warangal,Grocery,20,19.38
+2024-02-25,S03,P06,Warangal,Dairy,32,33.18
+2024-02-25,S03,P07,Warangal,Dairy,61,49.19
+2024-02-25,S03,P08,Warangal,Dairy,25,19.69
+2024-02-25,S03,P09,Warangal,Dairy,27,31.84
+2024-02-25,S03,P10,Warangal,Dairy,62,53.61
+2024-02-25,S03,P11,Warangal,Bakery,22,17.64
+2024-02-25,S03,P12,Warangal,Snacks,25,23.57
+2024-02-25,S03,P13,Warangal,Snacks,38,36.25
+2024-02-25,S03,P14,Warangal,Snacks,13,11.27
+2024-02-25,S03,P15,Warangal,Beverages,28,21.2
+2024-02-25,S03,P16,Warangal,Beverages,30,29.85
+2024-02-25,S03,P17,Warangal,Beverages,15,12.66
+2024-02-25,S03,P18,Warangal,Beverages,17,20.55
+2024-02-25,S03,P19,Warangal,Personal Care,27,26.27
+2024-02-25,S03,P20,Warangal,Personal Care,12,10.62
+2024-02-25,S04,P01,Karimnagar,Grocery,14,13.92
+2024-02-25,S04,P02,Karimnagar,Grocery,21,20.58
+2024-02-25,S04,P03,Karimnagar,Grocery,34,25.94
+2024-02-25,S04,P04,Karimnagar,Grocery,39,37.48
+2024-02-25,S04,P05,Karimnagar,Grocery,20,18.58
+2024-02-25,S04,P06,Karimnagar,Dairy,39,31.39
+2024-02-25,S04,P07,Karimnagar,Dairy,36,41.91
+2024-02-25,S04,P08,Karimnagar,Dairy,18,20.7
+2024-02-25,S04,P09,Karimnagar,Dairy,33,31.04
+2024-02-25,S04,P10,Karimnagar,Dairy,31,37.55
+2024-02-25,S04,P11,Karimnagar,Bakery,23,17.42
+2024-02-25,S04,P12,Karimnagar,Snacks,25,24.28
+2024-02-25,S04,P13,Karimnagar,Snacks,30,35.82
+2024-02-25,S04,P14,Karimnagar,Snacks,15,11.07
+2024-02-25,S04,P15,Karimnagar,Beverages,14,21.34
+2024-02-25,S04,P16,Karimnagar,Beverages,29,28.54
+2024-02-25,S04,P17,Karimnagar,Beverages,17,9.84
+2024-02-25,S04,P18,Karimnagar,Beverages,27,26.49
+2024-02-25,S04,P19,Karimnagar,Personal Care,25,26.47
+2024-02-25,S04,P20,Karimnagar,Personal Care,12,12.33
+2024-02-25,S05,P01,Nizamabad,Grocery,10,10.93
+2024-02-25,S05,P02,Nizamabad,Grocery,24,22.54
+2024-02-25,S05,P03,Nizamabad,Grocery,32,26.4
+2024-02-25,S05,P04,Nizamabad,Grocery,47,36.83
+2024-02-25,S05,P05,Nizamabad,Grocery,22,18.76
+2024-02-25,S05,P06,Nizamabad,Dairy,32,43.52
+2024-02-25,S05,P07,Nizamabad,Dairy,52,50.63
+2024-02-25,S05,P08,Nizamabad,Dairy,23,16.73
+2024-02-25,S05,P09,Nizamabad,Dairy,35,41.48
+2024-02-25,S05,P10,Nizamabad,Dairy,41,42.35
+2024-02-25,S05,P11,Nizamabad,Bakery,20,19.33
+2024-02-25,S05,P12,Nizamabad,Snacks,26,22.52
+2024-02-25,S05,P13,Nizamabad,Snacks,38,31.15
+2024-02-25,S05,P14,Nizamabad,Snacks,13,12.14
+2024-02-25,S05,P15,Nizamabad,Beverages,26,20.49
+2024-02-25,S05,P16,Nizamabad,Beverages,35,28.69
+2024-02-25,S05,P17,Nizamabad,Beverages,16,12.84
+2024-02-25,S05,P18,Nizamabad,Beverages,21,21.78
+2024-02-25,S05,P19,Nizamabad,Personal Care,28,29.56
+2024-02-25,S05,P20,Nizamabad,Personal Care,11,10.9
+2024-02-26,S01,P01,Hyderabad,Grocery,17,13.87
+2024-02-26,S01,P02,Hyderabad,Grocery,19,20.6
+2024-02-26,S01,P03,Hyderabad,Grocery,28,29.91
+2024-02-26,S01,P04,Hyderabad,Grocery,38,34.27
+2024-02-26,S01,P05,Hyderabad,Grocery,22,19.39
+2024-02-26,S01,P06,Hyderabad,Dairy,33,31.94
+2024-02-26,S01,P07,Hyderabad,Dairy,38,42.46
+2024-02-26,S01,P08,Hyderabad,Dairy,23,22.64
+2024-02-26,S01,P09,Hyderabad,Dairy,35,31.86
+2024-02-26,S01,P10,Hyderabad,Dairy,40,35.05
+2024-02-26,S01,P11,Hyderabad,Bakery,30,28.54
+2024-02-26,S01,P12,Hyderabad,Snacks,25,21.55
+2024-02-26,S01,P13,Hyderabad,Snacks,43,30.77
+2024-02-26,S01,P14,Hyderabad,Snacks,21,17.83
+2024-02-26,S01,P15,Hyderabad,Beverages,23,24.18
+2024-02-26,S01,P16,Hyderabad,Beverages,30,30.7
+2024-02-26,S01,P17,Hyderabad,Beverages,24,12.75
+2024-02-26,S01,P18,Hyderabad,Beverages,21,23.35
+2024-02-26,S01,P19,Hyderabad,Personal Care,30,24.47
+2024-02-26,S01,P20,Hyderabad,Personal Care,13,14.16
+2024-02-26,S02,P01,Secunderabad,Grocery,16,13.02
+2024-02-26,S02,P02,Secunderabad,Grocery,26,25.59
+2024-02-26,S02,P03,Secunderabad,Grocery,34,29.61
+2024-02-26,S02,P04,Secunderabad,Grocery,54,32.58
+2024-02-26,S02,P05,Secunderabad,Grocery,19,20.56
+2024-02-26,S02,P06,Secunderabad,Dairy,27,35.29
+2024-02-26,S02,P07,Secunderabad,Dairy,57,44.65
+2024-02-26,S02,P08,Secunderabad,Dairy,18,18.88
+2024-02-26,S02,P09,Secunderabad,Dairy,24,34.5
+2024-02-26,S02,P10,Secunderabad,Dairy,50,35.48
+2024-02-26,S02,P11,Secunderabad,Bakery,23,20.74
+2024-02-26,S02,P12,Secunderabad,Snacks,31,24.39
+2024-02-26,S02,P13,Secunderabad,Snacks,34,32.51
+2024-02-26,S02,P14,Secunderabad,Snacks,18,14.34
+2024-02-26,S02,P15,Secunderabad,Beverages,18,22.77
+2024-02-26,S02,P16,Secunderabad,Beverages,17,32.71
+2024-02-26,S02,P17,Secunderabad,Beverages,14,12.44
+2024-02-26,S02,P18,Secunderabad,Beverages,28,22.25
+2024-02-26,S02,P19,Secunderabad,Personal Care,50,29.52
+2024-02-26,S02,P20,Secunderabad,Personal Care,9,12.87
+2024-02-26,S03,P01,Warangal,Grocery,14,8.4
+2024-02-26,S03,P02,Warangal,Grocery,19,19.07
+2024-02-26,S03,P03,Warangal,Grocery,27,24.41
+2024-02-26,S03,P04,Warangal,Grocery,47,33.32
+2024-02-26,S03,P05,Warangal,Grocery,17,18.78
+2024-02-26,S03,P06,Warangal,Dairy,34,24.53
+2024-02-26,S03,P07,Warangal,Dairy,48,43.29
+2024-02-26,S03,P08,Warangal,Dairy,17,17.07
+2024-02-26,S03,P09,Warangal,Dairy,29,24.47
+2024-02-26,S03,P10,Warangal,Dairy,53,47.51
+2024-02-26,S03,P11,Warangal,Bakery,12,14.57
+2024-02-26,S03,P12,Warangal,Snacks,28,17.58
+2024-02-26,S03,P13,Warangal,Snacks,30,25.52
+2024-02-26,S03,P14,Warangal,Snacks,15,8.32
+2024-02-26,S03,P15,Warangal,Beverages,21,17.13
+2024-02-26,S03,P16,Warangal,Beverages,27,30.19
+2024-02-26,S03,P17,Warangal,Beverages,6,9.75
+2024-02-26,S03,P18,Warangal,Beverages,21,17.2
+2024-02-26,S03,P19,Warangal,Personal Care,18,24.48
+2024-02-26,S03,P20,Warangal,Personal Care,9,9.35
+2024-02-26,S04,P01,Karimnagar,Grocery,11,10.31
+2024-02-26,S04,P02,Karimnagar,Grocery,14,16.21
+2024-02-26,S04,P03,Karimnagar,Grocery,30,23.93
+2024-02-26,S04,P04,Karimnagar,Grocery,31,35.1
+2024-02-26,S04,P05,Karimnagar,Grocery,17,15.12
+2024-02-26,S04,P06,Karimnagar,Dairy,34,26.98
+2024-02-26,S04,P07,Karimnagar,Dairy,42,33.71
+2024-02-26,S04,P08,Karimnagar,Dairy,19,15.79
+2024-02-26,S04,P09,Karimnagar,Dairy,34,28.68
+2024-02-26,S04,P10,Karimnagar,Dairy,42,35.65
+2024-02-26,S04,P11,Karimnagar,Bakery,15,13.94
+2024-02-26,S04,P12,Karimnagar,Snacks,17,16.16
+2024-02-26,S04,P13,Karimnagar,Snacks,24,24.72
+2024-02-26,S04,P14,Karimnagar,Snacks,8,9.64
+2024-02-26,S04,P15,Karimnagar,Beverages,16,22.85
+2024-02-26,S04,P16,Karimnagar,Beverages,29,29.33
+2024-02-26,S04,P17,Karimnagar,Beverages,12,9.96
+2024-02-26,S04,P18,Karimnagar,Beverages,28,23.06
+2024-02-26,S04,P19,Karimnagar,Personal Care,36,23.05
+2024-02-26,S04,P20,Karimnagar,Personal Care,8,8.78
+2024-02-26,S05,P01,Nizamabad,Grocery,10,8.5
+2024-02-26,S05,P02,Nizamabad,Grocery,16,17.82
+2024-02-26,S05,P03,Nizamabad,Grocery,22,23.8
+2024-02-26,S05,P04,Nizamabad,Grocery,32,32.02
+2024-02-26,S05,P05,Nizamabad,Grocery,20,16.6
+2024-02-26,S05,P06,Nizamabad,Dairy,35,34.64
+2024-02-26,S05,P07,Nizamabad,Dairy,30,34.65
+2024-02-26,S05,P08,Nizamabad,Dairy,19,18.91
+2024-02-26,S05,P09,Nizamabad,Dairy,35,33.59
+2024-02-26,S05,P10,Nizamabad,Dairy,31,34.27
+2024-02-26,S05,P11,Nizamabad,Bakery,19,14.51
+2024-02-26,S05,P12,Nizamabad,Snacks,28,16.02
+2024-02-26,S05,P13,Nizamabad,Snacks,33,27.64
+2024-02-26,S05,P14,Nizamabad,Snacks,10,10.33
+2024-02-26,S05,P15,Nizamabad,Beverages,19,18.26
+2024-02-26,S05,P16,Nizamabad,Beverages,29,28.42
+2024-02-26,S05,P17,Nizamabad,Beverages,9,10.56
+2024-02-26,S05,P18,Nizamabad,Beverages,24,16.05
+2024-02-26,S05,P19,Nizamabad,Personal Care,26,25.03
+2024-02-26,S05,P20,Nizamabad,Personal Care,12,9.06
+2024-02-27,S01,P01,Hyderabad,Grocery,12,13.53
+2024-02-27,S01,P02,Hyderabad,Grocery,22,21.12
+2024-02-27,S01,P03,Hyderabad,Grocery,23,30.58
+2024-02-27,S01,P04,Hyderabad,Grocery,46,36.03
+2024-02-27,S01,P05,Hyderabad,Grocery,24,19.7
+2024-02-27,S01,P06,Hyderabad,Dairy,40,32.84
+2024-02-27,S01,P07,Hyderabad,Dairy,35,43.29
+2024-02-27,S01,P08,Hyderabad,Dairy,26,26.71
+2024-02-27,S01,P09,Hyderabad,Dairy,38,31.98
+2024-02-27,S01,P10,Hyderabad,Dairy,39,35.21
+2024-02-27,S01,P11,Hyderabad,Bakery,34,27.86
+2024-02-27,S01,P12,Hyderabad,Snacks,19,20.58
+2024-02-27,S01,P13,Hyderabad,Snacks,29,31.03
+2024-02-27,S01,P14,Hyderabad,Snacks,16,14.11
+2024-02-27,S01,P15,Hyderabad,Beverages,26,23.92
+2024-02-27,S01,P16,Hyderabad,Beverages,28,29.74
+2024-02-27,S01,P17,Hyderabad,Beverages,16,12.86
+2024-02-27,S01,P18,Hyderabad,Beverages,18,23.34
+2024-02-27,S01,P19,Hyderabad,Personal Care,32,24.32
+2024-02-27,S01,P20,Hyderabad,Personal Care,11,14.47
+2024-02-27,S02,P01,Secunderabad,Grocery,8,14.54
+2024-02-27,S02,P02,Secunderabad,Grocery,25,24.7
+2024-02-27,S02,P03,Secunderabad,Grocery,28,30.28
+2024-02-27,S02,P04,Secunderabad,Grocery,35,29.36
+2024-02-27,S02,P05,Secunderabad,Grocery,28,20.12
+2024-02-27,S02,P06,Secunderabad,Dairy,33,34.52
+2024-02-27,S02,P07,Secunderabad,Dairy,49,44.2
+2024-02-27,S02,P08,Secunderabad,Dairy,27,17.45
+2024-02-27,S02,P09,Secunderabad,Dairy,28,34.3
+2024-02-27,S02,P10,Secunderabad,Dairy,35,36.1
+2024-02-27,S02,P11,Secunderabad,Bakery,18,20.65
+2024-02-27,S02,P12,Secunderabad,Snacks,15,23.91
+2024-02-27,S02,P13,Secunderabad,Snacks,45,31.78
+2024-02-27,S02,P14,Secunderabad,Snacks,10,14.05
+2024-02-27,S02,P15,Secunderabad,Beverages,34,22.59
+2024-02-27,S02,P16,Secunderabad,Beverages,27,40.76
+2024-02-27,S02,P17,Secunderabad,Beverages,14,12.24
+2024-02-27,S02,P18,Secunderabad,Beverages,26,22.7
+2024-02-27,S02,P19,Secunderabad,Personal Care,41,28.9
+2024-02-27,S02,P20,Secunderabad,Personal Care,9,13.61
+2024-02-27,S03,P01,Warangal,Grocery,8,8.54
+2024-02-27,S03,P02,Warangal,Grocery,9,18.37
+2024-02-27,S03,P03,Warangal,Grocery,26,24.89
+2024-02-27,S03,P04,Warangal,Grocery,33,32.02
+2024-02-27,S03,P05,Warangal,Grocery,18,18.66
+2024-02-27,S03,P06,Warangal,Dairy,25,26.15
+2024-02-27,S03,P07,Warangal,Dairy,58,45.96
+2024-02-27,S03,P08,Warangal,Dairy,15,17.17
+2024-02-27,S03,P09,Warangal,Dairy,25,25.72
+2024-02-27,S03,P10,Warangal,Dairy,32,49.35
+2024-02-27,S03,P11,Warangal,Bakery,16,14.19
+2024-02-27,S03,P12,Warangal,Snacks,13,16.42
+2024-02-27,S03,P13,Warangal,Snacks,24,25.4
+2024-02-27,S03,P14,Warangal,Snacks,11,10.38
+2024-02-27,S03,P15,Warangal,Beverages,23,18.45
+2024-02-27,S03,P16,Warangal,Beverages,27,28.83
+2024-02-27,S03,P17,Warangal,Beverages,14,9.46
+2024-02-27,S03,P18,Warangal,Beverages,19,16.41
+2024-02-27,S03,P19,Warangal,Personal Care,31,24.08
+2024-02-27,S03,P20,Warangal,Personal Care,7,9.97
+2024-02-27,S04,P01,Karimnagar,Grocery,12,8.38
+2024-02-27,S04,P02,Karimnagar,Grocery,15,16.85
+2024-02-27,S04,P03,Karimnagar,Grocery,24,25.22
+2024-02-27,S04,P04,Karimnagar,Grocery,34,34.18
+2024-02-27,S04,P05,Karimnagar,Grocery,15,15.61
+2024-02-27,S04,P06,Karimnagar,Dairy,24,27.62
+2024-02-27,S04,P07,Karimnagar,Dairy,37,34.75
+2024-02-27,S04,P08,Karimnagar,Dairy,16,15.96
+2024-02-27,S04,P09,Karimnagar,Dairy,33,29.18
+2024-02-27,S04,P10,Karimnagar,Dairy,48,36.02
+2024-02-27,S04,P11,Karimnagar,Bakery,22,14.81
+2024-02-27,S04,P12,Karimnagar,Snacks,20,15.58
+2024-02-27,S04,P13,Karimnagar,Snacks,32,25.21
+2024-02-27,S04,P14,Karimnagar,Snacks,14,10.26
+2024-02-27,S04,P15,Karimnagar,Beverages,30,23.25
+2024-02-27,S04,P16,Karimnagar,Beverages,19,28.33
+2024-02-27,S04,P17,Karimnagar,Beverages,10,9.85
+2024-02-27,S04,P18,Karimnagar,Beverages,18,23.49
+2024-02-27,S04,P19,Karimnagar,Personal Care,25,22.25
+2024-02-27,S04,P20,Karimnagar,Personal Care,9,9.13
+2024-02-27,S05,P01,Nizamabad,Grocery,11,7.66
+2024-02-27,S05,P02,Nizamabad,Grocery,19,17.09
+2024-02-27,S05,P03,Nizamabad,Grocery,33,28.69
+2024-02-27,S05,P04,Nizamabad,Grocery,33,30.71
+2024-02-27,S05,P05,Nizamabad,Grocery,13,16.04
+2024-02-27,S05,P06,Nizamabad,Dairy,27,34.94
+2024-02-27,S05,P07,Nizamabad,Dairy,43,34.7
+2024-02-27,S05,P08,Nizamabad,Dairy,18,18.8
+2024-02-27,S05,P09,Nizamabad,Dairy,36,27.6
+2024-02-27,S05,P10,Nizamabad,Dairy,35,30.84
+2024-02-27,S05,P11,Nizamabad,Bakery,17,14.41
+2024-02-27,S05,P12,Nizamabad,Snacks,23,15.56
+2024-02-27,S05,P13,Nizamabad,Snacks,21,27.58
+2024-02-27,S05,P14,Nizamabad,Snacks,10,11.77
+2024-02-27,S05,P15,Nizamabad,Beverages,12,19.42
+2024-02-27,S05,P16,Nizamabad,Beverages,31,26.9
+2024-02-27,S05,P17,Nizamabad,Beverages,7,10.4
+2024-02-27,S05,P18,Nizamabad,Beverages,10,15.47
+2024-02-27,S05,P19,Nizamabad,Personal Care,30,25.54
+2024-02-27,S05,P20,Nizamabad,Personal Care,10,9.66
+2024-02-28,S01,P01,Hyderabad,Grocery,15,15.12
+2024-02-28,S01,P02,Hyderabad,Grocery,20,20.61
+2024-02-28,S01,P03,Hyderabad,Grocery,41,29.46
+2024-02-28,S01,P04,Hyderabad,Grocery,40,38.96
+2024-02-28,S01,P05,Hyderabad,Grocery,17,19.7
+2024-02-28,S01,P06,Hyderabad,Dairy,32,30.83
+2024-02-28,S01,P07,Hyderabad,Dairy,42,38.1
+2024-02-28,S01,P08,Hyderabad,Dairy,40,26.49
+2024-02-28,S01,P09,Hyderabad,Dairy,21,31.57
+2024-02-28,S01,P10,Hyderabad,Dairy,42,35.54
+2024-02-28,S01,P11,Hyderabad,Bakery,19,27.99
+2024-02-28,S01,P12,Hyderabad,Snacks,30,20.32
+2024-02-28,S01,P13,Hyderabad,Snacks,24,29.54
+2024-02-28,S01,P14,Hyderabad,Snacks,16,15.2
+2024-02-28,S01,P15,Hyderabad,Beverages,13,23.42
+2024-02-28,S01,P16,Hyderabad,Beverages,33,28.82
+2024-02-28,S01,P17,Hyderabad,Beverages,12,11.72
+2024-02-28,S01,P18,Hyderabad,Beverages,17,22.39
+2024-02-28,S01,P19,Hyderabad,Personal Care,38,25.97
+2024-02-28,S01,P20,Hyderabad,Personal Care,11,13.36
+2024-02-28,S02,P01,Secunderabad,Grocery,15,14.83
+2024-02-28,S02,P02,Secunderabad,Grocery,16,23.03
+2024-02-28,S02,P03,Secunderabad,Grocery,32,32.55
+2024-02-28,S02,P04,Secunderabad,Grocery,42,34.99
+2024-02-28,S02,P05,Secunderabad,Grocery,21,19.66
+2024-02-28,S02,P06,Secunderabad,Dairy,35,32.62
+2024-02-28,S02,P07,Secunderabad,Dairy,37,40.73
+2024-02-28,S02,P08,Secunderabad,Dairy,22,20.78
+2024-02-28,S02,P09,Secunderabad,Dairy,17,32.68
+2024-02-28,S02,P10,Secunderabad,Dairy,51,39.02
+2024-02-28,S02,P11,Secunderabad,Bakery,23,20.26
+2024-02-28,S02,P12,Secunderabad,Snacks,24,24.46
+2024-02-28,S02,P13,Secunderabad,Snacks,30,31.89
+2024-02-28,S02,P14,Secunderabad,Snacks,18,14.12
+2024-02-28,S02,P15,Secunderabad,Beverages,22,23.3
+2024-02-28,S02,P16,Secunderabad,Beverages,41,39.72
+2024-02-28,S02,P17,Secunderabad,Beverages,13,11.97
+2024-02-28,S02,P18,Secunderabad,Beverages,17,22.03
+2024-02-28,S02,P19,Secunderabad,Personal Care,37,28.86
+2024-02-28,S02,P20,Secunderabad,Personal Care,18,14.8
+2024-02-28,S03,P01,Warangal,Grocery,10,8.53
+2024-02-28,S03,P02,Warangal,Grocery,17,17.86
+2024-02-28,S03,P03,Warangal,Grocery,24,23.66
+2024-02-28,S03,P04,Warangal,Grocery,49,46.88
+2024-02-28,S03,P05,Warangal,Grocery,24,18.5
+2024-02-28,S03,P06,Warangal,Dairy,20,28.23
+2024-02-28,S03,P07,Warangal,Dairy,44,45.89
+2024-02-28,S03,P08,Warangal,Dairy,16,16.8
+2024-02-28,S03,P09,Warangal,Dairy,17,27.55
+2024-02-28,S03,P10,Warangal,Dairy,21,35.91
+2024-02-28,S03,P11,Warangal,Bakery,17,13.94
+2024-02-28,S03,P12,Warangal,Snacks,28,17.89
+2024-02-28,S03,P13,Warangal,Snacks,25,24.78
+2024-02-28,S03,P14,Warangal,Snacks,11,10.82
+2024-02-28,S03,P15,Warangal,Beverages,23,19.1
+2024-02-28,S03,P16,Warangal,Beverages,29,29.7
+2024-02-28,S03,P17,Warangal,Beverages,12,9.74
+2024-02-28,S03,P18,Warangal,Beverages,17,16.01
+2024-02-28,S03,P19,Warangal,Personal Care,25,24.58
+2024-02-28,S03,P20,Warangal,Personal Care,9,9.05
+2024-02-28,S04,P01,Karimnagar,Grocery,9,8.45
+2024-02-28,S04,P02,Karimnagar,Grocery,23,16.92
+2024-02-28,S04,P03,Karimnagar,Grocery,23,24.22
+2024-02-28,S04,P04,Karimnagar,Grocery,34,33.49
+2024-02-28,S04,P05,Karimnagar,Grocery,13,16.17
+2024-02-28,S04,P06,Karimnagar,Dairy,24,26.99
+2024-02-28,S04,P07,Karimnagar,Dairy,42,34.62
+2024-02-28,S04,P08,Karimnagar,Dairy,16,15.86
+2024-02-28,S04,P09,Karimnagar,Dairy,27,27.84
+2024-02-28,S04,P10,Karimnagar,Dairy,32,36.79
+2024-02-28,S04,P11,Karimnagar,Bakery,11,15.48
+2024-02-28,S04,P12,Karimnagar,Snacks,30,22.96
+2024-02-28,S04,P13,Karimnagar,Snacks,28,24.18
+2024-02-28,S04,P14,Karimnagar,Snacks,12,9.52
+2024-02-28,S04,P15,Karimnagar,Beverages,16,23.66
+2024-02-28,S04,P16,Karimnagar,Beverages,29,28.64
+2024-02-28,S04,P17,Karimnagar,Beverages,8,9.97
+2024-02-28,S04,P18,Karimnagar,Beverages,16,16.04
+2024-02-28,S04,P19,Karimnagar,Personal Care,24,22.05
+2024-02-28,S04,P20,Karimnagar,Personal Care,11,8.9
+2024-02-28,S05,P01,Nizamabad,Grocery,13,8.06
+2024-02-28,S05,P02,Nizamabad,Grocery,24,15.73
+2024-02-28,S05,P03,Nizamabad,Grocery,31,29.3
+2024-02-28,S05,P04,Nizamabad,Grocery,39,31.6
+2024-02-28,S05,P05,Nizamabad,Grocery,13,15.37
+2024-02-28,S05,P06,Nizamabad,Dairy,31,34.74
+2024-02-28,S05,P07,Nizamabad,Dairy,44,33.82
+2024-02-28,S05,P08,Nizamabad,Dairy,18,18.44
+2024-02-28,S05,P09,Nizamabad,Dairy,29,27.19
+2024-02-28,S05,P10,Nizamabad,Dairy,35,29.23
+2024-02-28,S05,P11,Nizamabad,Bakery,17,14.36
+2024-02-28,S05,P12,Nizamabad,Snacks,20,18.24
+2024-02-28,S05,P13,Nizamabad,Snacks,28,25.74
+2024-02-28,S05,P14,Nizamabad,Snacks,16,11.68
+2024-02-28,S05,P15,Nizamabad,Beverages,13,19.56
+2024-02-28,S05,P16,Nizamabad,Beverages,31,27.66
+2024-02-28,S05,P17,Nizamabad,Beverages,9,10.71
+2024-02-28,S05,P18,Nizamabad,Beverages,15,15.15
+2024-02-28,S05,P19,Nizamabad,Personal Care,27,25.54
+2024-02-28,S05,P20,Nizamabad,Personal Care,10,11.76
+2024-02-29,S01,P01,Hyderabad,Grocery,14,15.32
+2024-02-29,S01,P02,Hyderabad,Grocery,26,20.37
+2024-02-29,S01,P03,Hyderabad,Grocery,27,29.85
+2024-02-29,S01,P04,Hyderabad,Grocery,34,39.76
+2024-02-29,S01,P05,Hyderabad,Grocery,28,20.93
+2024-02-29,S01,P06,Hyderabad,Dairy,38,30.22
+2024-02-29,S01,P07,Hyderabad,Dairy,37,41.64
+2024-02-29,S01,P08,Hyderabad,Dairy,38,26.64
+2024-02-29,S01,P09,Hyderabad,Dairy,22,31.46
+2024-02-29,S01,P10,Hyderabad,Dairy,43,35.46
+2024-02-29,S01,P11,Hyderabad,Bakery,28,19.03
+2024-02-29,S01,P12,Hyderabad,Snacks,26,20.47
+2024-02-29,S01,P13,Hyderabad,Snacks,29,28.36
+2024-02-29,S01,P14,Hyderabad,Snacks,12,14.39
+2024-02-29,S01,P15,Hyderabad,Beverages,25,24.11
+2024-02-29,S01,P16,Hyderabad,Beverages,34,27.85
+2024-02-29,S01,P17,Hyderabad,Beverages,15,11.33
+2024-02-29,S01,P18,Hyderabad,Beverages,18,22.4
+2024-02-29,S01,P19,Hyderabad,Personal Care,32,28.02
+2024-02-29,S01,P20,Hyderabad,Personal Care,17,14.55
+2024-02-29,S02,P01,Secunderabad,Grocery,14,15.63
+2024-02-29,S02,P02,Secunderabad,Grocery,19,24.71
+2024-02-29,S02,P03,Secunderabad,Grocery,23,26.51
+2024-02-29,S02,P04,Secunderabad,Grocery,32,37.15
+2024-02-29,S02,P05,Secunderabad,Grocery,29,19.52
+2024-02-29,S02,P06,Secunderabad,Dairy,37,30.62
+2024-02-29,S02,P07,Secunderabad,Dairy,47,40.89
+2024-02-29,S02,P08,Secunderabad,Dairy,29,19.52
+2024-02-29,S02,P09,Secunderabad,Dairy,26,31.2
+2024-02-29,S02,P10,Secunderabad,Dairy,26,37.97
+2024-02-29,S02,P11,Secunderabad,Bakery,18,21.81
+2024-02-29,S02,P12,Secunderabad,Snacks,19,25.45
+2024-02-29,S02,P13,Secunderabad,Snacks,36,37.08
+2024-02-29,S02,P14,Secunderabad,Snacks,16,14.76
+2024-02-29,S02,P15,Secunderabad,Beverages,15,24.27
+2024-02-29,S02,P16,Secunderabad,Beverages,40,39.69
+2024-02-29,S02,P17,Secunderabad,Beverages,11,11.74
+2024-02-29,S02,P18,Secunderabad,Beverages,27,22.11
+2024-02-29,S02,P19,Secunderabad,Personal Care,20,25.83
+2024-02-29,S02,P20,Secunderabad,Personal Care,11,13.87
+2024-02-29,S03,P01,Warangal,Grocery,9,8.15
+2024-02-29,S03,P02,Warangal,Grocery,14,17.21
+2024-02-29,S03,P03,Warangal,Grocery,26,26.44
+2024-02-29,S03,P04,Warangal,Grocery,45,43.32
+2024-02-29,S03,P05,Warangal,Grocery,18,17.22
+2024-02-29,S03,P06,Warangal,Dairy,28,25.43
+2024-02-29,S03,P07,Warangal,Dairy,50,46.39
+2024-02-29,S03,P08,Warangal,Dairy,14,17.59
+2024-02-29,S03,P09,Warangal,Dairy,27,26.43
+2024-02-29,S03,P10,Warangal,Dairy,39,35.0
+2024-02-29,S03,P11,Warangal,Bakery,9,13.56
+2024-02-29,S03,P12,Warangal,Snacks,22,17.87
+2024-02-29,S03,P13,Warangal,Snacks,18,26.46
+2024-02-29,S03,P14,Warangal,Snacks,7,11.26
+2024-02-29,S03,P15,Warangal,Beverages,20,19.27
+2024-02-29,S03,P16,Warangal,Beverages,25,29.32
+2024-02-29,S03,P17,Warangal,Beverages,13,9.88
+2024-02-29,S03,P18,Warangal,Beverages,14,15.26
+2024-02-29,S03,P19,Warangal,Personal Care,23,23.61
+2024-02-29,S03,P20,Warangal,Personal Care,9,9.13
+2024-02-29,S04,P01,Karimnagar,Grocery,8,7.78
+2024-02-29,S04,P02,Karimnagar,Grocery,20,16.27
+2024-02-29,S04,P03,Karimnagar,Grocery,23,27.24
+2024-02-29,S04,P04,Karimnagar,Grocery,35,31.15
+2024-02-29,S04,P05,Karimnagar,Grocery,23,15.53
+2024-02-29,S04,P06,Karimnagar,Dairy,25,26.66
+2024-02-29,S04,P07,Karimnagar,Dairy,40,35.72
+2024-02-29,S04,P08,Karimnagar,Dairy,21,18.36
+2024-02-29,S04,P09,Karimnagar,Dairy,23,27.16
+2024-02-29,S04,P10,Karimnagar,Dairy,24,35.52
+2024-02-29,S04,P11,Karimnagar,Bakery,10,15.23
+2024-02-29,S04,P12,Karimnagar,Snacks,23,22.76
+2024-02-29,S04,P13,Karimnagar,Snacks,30,25.13
+2024-02-29,S04,P14,Karimnagar,Snacks,8,10.36
+2024-02-29,S04,P15,Karimnagar,Beverages,20,23.76
+2024-02-29,S04,P16,Karimnagar,Beverages,34,28.27
+2024-02-29,S04,P17,Karimnagar,Beverages,13,9.86
+2024-02-29,S04,P18,Karimnagar,Beverages,14,15.27
+2024-02-29,S04,P19,Karimnagar,Personal Care,19,22.54
+2024-02-29,S04,P20,Karimnagar,Personal Care,11,9.27
+2024-02-29,S05,P01,Nizamabad,Grocery,10,7.88
+2024-02-29,S05,P02,Nizamabad,Grocery,16,15.88
+2024-02-29,S05,P03,Nizamabad,Grocery,32,29.47
+2024-02-29,S05,P04,Nizamabad,Grocery,27,31.09
+2024-02-29,S05,P05,Nizamabad,Grocery,16,15.47
+2024-02-29,S05,P06,Nizamabad,Dairy,32,26.12
+2024-02-29,S05,P07,Nizamabad,Dairy,26,34.27
+2024-02-29,S05,P08,Nizamabad,Dairy,16,18.13
+2024-02-29,S05,P09,Nizamabad,Dairy,32,26.64
+2024-02-29,S05,P10,Nizamabad,Dairy,26,29.04
+2024-02-29,S05,P11,Nizamabad,Bakery,16,14.41
+2024-02-29,S05,P12,Nizamabad,Snacks,12,17.74
+2024-02-29,S05,P13,Nizamabad,Snacks,30,26.47
+2024-02-29,S05,P14,Nizamabad,Snacks,7,11.68
+2024-02-29,S05,P15,Nizamabad,Beverages,28,19.4
+2024-02-29,S05,P16,Nizamabad,Beverages,15,27.74
+2024-02-29,S05,P17,Nizamabad,Beverages,10,10.46
+2024-02-29,S05,P18,Nizamabad,Beverages,23,15.12
+2024-02-29,S05,P19,Nizamabad,Personal Care,21,24.06
+2024-02-29,S05,P20,Nizamabad,Personal Care,9,12.08

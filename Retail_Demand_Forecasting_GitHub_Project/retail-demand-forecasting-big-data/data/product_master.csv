@@ -1,0 +1,21 @@
+Product ID,Product Name,Category,Regular Price INR,Unit Cost INR
+P01,Rice 5kg,Grocery,360,285
+P02,Wheat Flour 5kg,Grocery,260,202
+P03,Sugar 1kg,Grocery,54,42
+P04,Toor Dal 1kg,Grocery,160,126
+P05,Sunflower Oil 1L,Grocery,150,120
+P06,Milk 1L,Dairy,64,52
+P07,Curd 500g,Dairy,42,32
+P08,Butter 100g,Dairy,60,48
+P09,Paneer 200g,Dairy,105,85
+P10,Cheese 200g,Dairy,130,105
+P11,Bread 400g,Bakery,48,35
+P12,Biscuits 200g,Snacks,35,25
+P13,Potato Chips 100g,Snacks,45,32
+P14,Instant Noodles,Snacks,20,14
+P15,Soft Drink 750ml,Beverages,45,31
+P16,Fruit Juice 1L,Beverages,110,82
+P17,Tea 250g,Beverages,145,112
+P18,Coffee 100g,Beverages,175,135
+P19,Soap 125g,Personal Care,42,30
+P20,Shampoo 180ml,Personal Care,155,113

@@ -1,0 +1,2 @@
+MAE_units,RMSE_units,MAPE_nonzero_pct,train_rows,test_rows,train_through_date,test_from_date
+4.2015340505050505,5.61956391742278,17.8281909929061,4800,1200,2024-02-17,2024-02-18

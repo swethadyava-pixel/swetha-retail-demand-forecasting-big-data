@@ -1,0 +1,27 @@
+{
+  "dataset_type": "Synthetic/simulated educational dataset; not real company records",
+  "rows": 6000,
+  "columns": 16,
+  "date_start": "2024-01-01",
+  "date_end": "2024-02-29",
+  "unique_stores": 5,
+  "unique_products": 20,
+  "cities": [
+    "Hyderabad",
+    "Karimnagar",
+    "Nizamabad",
+    "Secunderabad",
+    "Warangal"
+  ],
+  "missing_cells": 0,
+  "duplicate_rows": 0,
+  "total_units_sold": 141189,
+  "total_revenue_inr": 13969230.4,
+  "estimated_unmet_demand_units": 2015,
+  "limitations": [
+    "Synthetic data",
+    "Only 60 days of observations",
+    "Estimated unmet demand is a field in the simulated dataset and is not verified lost sales",
+    "Promotion comparisons are descriptive and not causal"
+  ]
+}

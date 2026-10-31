@@ -1,0 +1,17 @@
+field,dtype,description,missing_count,distinct_values
+Date,datetime64[ns],Transaction/observation date,0,60
+Store ID,object,Identifier for store,0,5
+City,object,Store city,0,5
+Product ID,object,Identifier for product,0,20
+Product Name,object,Product label,0,20
+Category,object,Product category,0,6
+Day of Week,object,Weekday label,0,7
+Promotion,object,Whether promotion is marked Yes/No,0,2
+Unit Price INR,float64,Selling price per unit in INR,0,35
+Units Sold,int64,Units sold for the product-store-date record,0,65
+Revenue INR,float64,Revenue for the record in INR,0,643
+Opening Stock,int64,Opening inventory units,0,147
+Restocked Units,int64,Units replenished during the record period,0,136
+Closing Stock,int64,Closing inventory units,0,215
+Estimated Unmet Demand,int64,Simulated/estimated demand not fulfilled; validate meaning before business use,0,23
+Unit Cost INR,int64,Estimated unit cost in INR,0,19
